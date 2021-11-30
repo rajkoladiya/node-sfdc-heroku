@@ -7,8 +7,9 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.13.1",
+    "@salesforce-ux/design-system": "^2.16.2",
     "body-parser": "^1.13.2",
+    "express": "^4.13.1",
     "pg": "^4.4.0"
   },
   "engines": {
